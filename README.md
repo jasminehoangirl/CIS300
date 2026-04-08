@@ -1,2 +1,0 @@
-# CIS300
-CIS300 Project
